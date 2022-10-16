@@ -14,7 +14,7 @@ sms-sender/sms 是使用 golang 实现短信发送器。
 ### 1. 定义驱动器
 
 ```go
-pacage sender
+package sender
 
 import "github.com/erasin/sms-sender/sms"
 
